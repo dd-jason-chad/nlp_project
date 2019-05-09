@@ -19,5 +19,9 @@ Project involves:
     - and then modeling the words to predict the language used to generate the contents of each repository.
 
 Github repositories used:
-- any github repos associated with the Open Austin primary github page, at:
-  https://github.com/open-austin
+- any github repos associated with the "Texas Tribune" primary github page, at:
+  https://github.com/texastribune
+
+
+From it's public website, https://www.texastribune.org :
+"The Texas Tribune is the only member-supported, digital-first, nonpartisan media organization that informs Texans — and engages with them — about public policy, politics, government and statewide issues."
