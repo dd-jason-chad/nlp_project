@@ -2,4 +2,4 @@ chad-project-delete.ipynb
 *.txt
 github_readme.json
 .ipynb_checkpoints/
-    __pycache__/
+__pycache__/
